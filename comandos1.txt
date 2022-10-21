@@ -1,0 +1,9 @@
+1. ls -l /bin/
+2. ls -l /tmp
+3.ls -a /etc| grep ^t|sort -rn
+4.ls /dev/tty?? o ls  /dev/| grep  ^tty..$
+5.ls  /dev/| grep  ^tty.*[1-4]$
+6.ls  /dev/| grep  ^t.*C1$
+7.ls -a ../..
+8.ls  /etc/| grep -v ^t
+9.ls -R /usr
