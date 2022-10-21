@@ -5,3 +5,7 @@
 14.tsmr2a@tsmr2a-VirtualBox:/home$
 15.cd /home/ | ls -i
 16.mkdir PRUEBA
+17.mkdir  -p dir1/dir11 dir2 dir3/dir31/dir311 dir3/dir31/dir312
+18.cd PRUEBA/ | ./../../../etc/hostname mensaje.txt
+19.
+20.ls -R
